@@ -24,6 +24,5 @@ Thank you for stopping by my GitHub! Happy coding! 🚀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassenmrakbenjebahi)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hassenmrakbenjebahi&repo=github-readme-stats&theme=buefy" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hassenmrakbenjebahi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hassen mrakben jebahi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenmrakbenjebahi&layout=compact&theme=buefy&hide_border=true" /></a> |
+
